@@ -1,0 +1,89 @@
+body {
+  background: url("https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/healthcare%20payment%20-%20feature.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.card {
+  margin: 50px 30px;
+  height: 200px;
+  opacity: 0.6;
+  color: white;
+  border-radius: 20px !important;
+  overflow: hidden;
+  text-align: center !important;
+}
+
+.nav {
+  background: transparent !important;
+  color: white;
+  padding: 10px;
+}
+
+h1 {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.692), red 50%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px !important;
+  background: linear-gradient(90deg, blue, white);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+h5 {
+  margin-left: 10%;
+  font-weight: bold;
+  font-size: 30px !important;
+  background: linear-gradient(90deg, red, white 50%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.btn {
+  background: transparent !important;
+  border: none !important;
+  font-size: 22px !important;
+  font-weight: bold !important;
+  color: black;
+  font-variant: small-caps;
+}
+
+.btn:hover {
+  color: black !important;
+}
+
+.line {
+  border: 1px solid white;
+  margin: 0 5px;
+  border-radius: 20px;
+}
+
+h3 {
+  font-variant: small-caps;
+  text-align: center;
+}
+
+.cards {
+  text-decoration: none;
+  color: white;
+}
+
+.cards:hover {
+  color: black;
+}
+
+ion-icon {
+  font-size: 80px;
+  margin-left: 50%;
+  margin-top: 5%;
+  color: yellow;
+  transform: translate(-50%);
+}
